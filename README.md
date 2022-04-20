@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vritti Mehrotra</h1>
 <h3 align="center">A passionate individual keen to deploy user centered approaches for curating User Experiences</h3>
 
-- 🌱 I’m currently learning **DSA, Cloud Computing and React Framework**
+- 🌱 I’m currently working on **DSA, Product Management and learning React Framework**
 
 - 📫 How to reach me **vrittidigital.08@gmail.com**
 
